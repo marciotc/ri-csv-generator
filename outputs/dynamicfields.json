@@ -1,0 +1,56 @@
+[
+    {
+      "file": "pages/articles/events-calendar/<<id>>",
+      "fields": {
+        "html": "textarea"
+      }
+    },
+    {
+      "file": "pages/articles/faq",
+      "fields": {
+        "item.answer": "textarea"
+      }
+    },
+    {
+      "file": "pages/articles/history",
+      "fields": {
+        "each.content": "textarea"
+      }
+    },
+    {
+      "file": "pages/articles/ir-contact/index",
+      "fields": {
+        "terms.contactPhone": "textarea",
+        "terms.contactEmail": "textarea"
+      }
+    },
+    {
+      "file": "pages/articles/ir-library/<<id>>",
+      "fields": {
+        "html": "textarea"
+      }
+    },
+    {
+      "file": "pages/articles/who-we-are",
+      "fields": {
+        "html": "textarea",
+        "terms.title": "textarea"
+      }
+    },
+    {
+      "file": "pages/index",
+      "fields": {
+        "teaser.text": "textarea",
+        "democracy.text": "textarea",
+        "squares.users.text": "textarea",
+        "squares.collab.text": "textarea",
+        "squares.messages.text": "textarea",
+        "squares.notifications.text": "textarea",
+        "squares.courses.text": "textarea",
+        "dna.text": "textarea",
+        "image_links.about.text": "textarea",
+        "image_links.history.text": "textarea",
+        "image_links.admin.text": "textarea"
+      }
+    }
+  ]

@@ -1,0 +1,1859 @@
+[
+  {
+    "file": "articles/audit-committee",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "full_profile": "string",
+        "ticle_name": "string",
+        "ticle_title": "string",
+        "ticle_bio": "string",
+        "ticle_link_bio": "string",
+        "rota_name": "string",
+        "rota_title": "string",
+        "rota_bio": "string",
+        "rota_link_bio": "string",
+        "gamba_name": "string",
+        "gamba_title": "string",
+        "gamba_bio": "string",
+        "gamba_link_bio": "string"
+      }
+    },
+    "template": "articles/audit-committee.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "full_profile": "string",
+        "ticle_name": "string",
+        "ticle_title": "string",
+        "ticle_bio": "string",
+        "ticle_link_bio": "string",
+        "rota_name": "string",
+        "rota_title": "string",
+        "rota_bio": "string",
+        "rota_link_bio": "string",
+        "gamba_name": "string",
+        "gamba_title": "string",
+        "gamba_bio": "string",
+        "gamba_link_bio": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/audit-committee/edison-ticle",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/audit-committee/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/audit-committee/eduardo-rota",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/audit-committee/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/audit-committee/fabricio-la-gamba",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/audit-committee/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "full_profile": "string",
+        "omar_name": "string",
+        "omar_title": "string",
+        "omar_bio": "string",
+        "omar_link_bio": "string",
+        "buka_name": "string",
+        "buka_title": "string",
+        "buka_bio": "string",
+        "buka_link_bio": "string",
+        "pontes_name": "string",
+        "pontes_title": "string",
+        "pontes_bio": "string",
+        "pontes_link_bio": "string",
+        "memo_name": "string",
+        "memo_title": "string",
+        "memo_bio": "string",
+        "memo_link_bio": "string",
+        "ticle_name": "string",
+        "ticle_title": "string",
+        "ticle_bio": "string",
+        "ticle_link_bio": "string",
+        "conrade_name": "string",
+        "conrade_title": "string",
+        "conrade_bio": "string",
+        "conrade_link_bio": "string",
+        "gustavo_name": "string",
+        "gustavo_title": "string",
+        "gustavo_bio": "string",
+        "gustavo_link_bio": "string",
+        "gustavo_image_link": "string"
+      }
+    },
+    "template": "articles/board-of-directors.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "full_profile": "string",
+        "omar_name": "string",
+        "omar_title": "string",
+        "omar_bio": "string",
+        "omar_link_bio": "string",
+        "buka_name": "string",
+        "buka_title": "string",
+        "buka_bio": "string",
+        "buka_link_bio": "string",
+        "pontes_name": "string",
+        "pontes_title": "string",
+        "pontes_bio": "string",
+        "pontes_link_bio": "string",
+        "memo_name": "string",
+        "memo_title": "string",
+        "memo_bio": "string",
+        "memo_link_bio": "string",
+        "ticle_name": "string",
+        "ticle_title": "string",
+        "ticle_bio": "string",
+        "ticle_link_bio": "string",
+        "conrade_name": "string",
+        "conrade_title": "string",
+        "conrade_bio": "string",
+        "conrade_link_bio": "string",
+        "gustavo_name": "string",
+        "gustavo_title": "string",
+        "gustavo_bio": "string",
+        "gustavo_link_bio": "string",
+        "gustavo_image_link": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/edison-ticle",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/felipe-pontes",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/guillermo-parra-bernal",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/gustavo-chamati",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/omar-ajame",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/pedro-albuquerque",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/board-of-directors/pedro-conrade",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/board-of-directors/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/corporate-structure",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "svg_path": "string"
+      }
+    },
+    "template": "articles/corporate-structure.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "svg_path": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/cvm-reports",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/cvm-reports/2020",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "datahook_data": "string"
+      }
+    },
+    "template": "articles/cvm-reports.html",
+    "pt-BR": {
+      "terms": {
+        "datahook_data": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/cvm-reports/2021",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "datahook_data": "string"
+      }
+    },
+    "template": "articles/cvm-reports.html",
+    "pt-BR": {
+      "terms": {
+        "datahook_data": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/download-center",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/events-calendar",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "current_events": "string",
+        "next_events": "string",
+        "past_events": "string",
+        "watch": "string",
+        "watchOn": "string",
+        "seeAll": "string",
+        "files": {
+          "name": "string",
+          "fields": {
+            "result_release": "string",
+            "itr": "string",
+            "presentation": "string",
+            "transcription": "string",
+            "audio": "string"
+          },
+          "notAvailable": "string"
+        }
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "current_events": "string",
+        "next_events": "string",
+        "past_events": "string",
+        "watch": "string",
+        "watchOn": "string",
+        "seeAll": "string",
+        "files": {
+          "name": "string",
+          "fields": {
+            "result_release": "string",
+            "itr": "string",
+            "presentation": "string",
+            "transcription": "string",
+            "audio": "string"
+          },
+          "notAvailable": "string"
+        }
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "full_profile": "string",
+        "buka_name": "string",
+        "buka_title": "string",
+        "buka_bio": "string",
+        "buka_link_bio": "string",
+        "massa_name": "string",
+        "massa_title": "string",
+        "massa_bio": "string",
+        "massa_link_bio": "string",
+        "machado_name": "string",
+        "machado_title": "string",
+        "machado_bio": "string",
+        "machado_link_bio": "string",
+        "pontes_name": "string",
+        "pontes_title": "string",
+        "pontes_bio": "string",
+        "pontes_link_bio": "string",
+        "mariano_name": "string",
+        "mariano_title": "string",
+        "mariano_bio": "string",
+        "mariano_link_bio": "string",
+        "javi_name": "string",
+        "javi_title": "string",
+        "javi_bio": "string",
+        "javi_link_bio": "string"
+      }
+    },
+    "template": "articles/executive-board.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "full_profile": "string",
+        "buka_name": "string",
+        "buka_title": "string",
+        "buka_bio": "string",
+        "buka_link_bio": "string",
+        "massa_name": "string",
+        "massa_title": "string",
+        "massa_bio": "string",
+        "massa_link_bio": "string",
+        "machado_name": "string",
+        "machado_title": "string",
+        "machado_bio": "string",
+        "machado_link_bio": "string",
+        "pontes_name": "string",
+        "pontes_title": "string",
+        "pontes_bio": "string",
+        "pontes_link_bio": "string",
+        "mariano_name": "string",
+        "mariano_title": "string",
+        "mariano_bio": "string",
+        "mariano_link_bio": "string",
+        "javi_name": "string",
+        "javi_title": "string",
+        "javi_bio": "string",
+        "javi_link_bio": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board/felipe-pontes",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/executive-board/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board/israel-massa",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/executive-board/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board/javier-ramacciotti",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/executive-board/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board/pedro-albuquerque",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/executive-board/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board/pedro-machado",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/executive-board/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/executive-board/pedro-mariano",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    },
+    "template": "articles/executive-board/each.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "bio_title": "string",
+        "bio_image": "string",
+        "education_bio": "string",
+        "professional_bio": "string",
+        "qualifications_title": "string",
+        "qualifications": "string",
+        "qualifications2": "string",
+        "qualifications3": "string",
+        "qualifications4": "string",
+        "qualifications5": "string",
+        "education_label": "string",
+        "professional_label": "string",
+        "back_link": "string",
+        "back_title": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/faq",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "content": "array"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "content": "array"
+      }
+    }
+  },
+  {
+    "file": "articles/glossary",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/history",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "list": "array"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "list": "array"
+      }
+    }
+  },
+  {
+    "file": "articles/ir-contact",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "formTitle": "string",
+        "formLabelName": "string",
+        "formLabelEmail": "string",
+        "formLabelCompany": "string",
+        "formLabelDocument": "string",
+        "formLabelSubject": "string",
+        "formLabelMessage": "string",
+        "formLabelCheckbox": "string",
+        "formLabelCheckboxLink": "string",
+        "formLabelButton": "string",
+        "optionLabelSubject": "string",
+        "formErrorMessage": "string",
+        "submittedTitle": "string",
+        "submittedMessage": "string",
+        "addressLabel": "string",
+        "address_line": "string",
+        "address_line1": "string",
+        "address_line2": "string",
+        "address_line3": "string",
+        "teamLabel": "string",
+        "pedro": "string",
+        "oliveira": "string",
+        "francianne": "string",
+        "paola": "string",
+        "contactLabel": "string",
+        "contactPhone": "string",
+        "contactEmail": "string"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "formTitle": "string",
+        "formLabelName": "string",
+        "formLabelEmail": "string",
+        "formLabelCompany": "string",
+        "formLabelDocument": "string",
+        "formLabelSubject": "string",
+        "formLabelMessage": "string",
+        "formLabelCheckbox": "string",
+        "formLabelCheckboxLink": "string",
+        "formLabelButton": "string",
+        "optionLabelSubject": "string",
+        "formErrorMessage": "string",
+        "submittedTitle": "string",
+        "submittedMessage": "string",
+        "addressLabel": "string",
+        "address_line": "string",
+        "address_line1": "string",
+        "address_line2": "string",
+        "address_line3": "string",
+        "teamLabel": "string",
+        "pedro": "string",
+        "oliveira": "string",
+        "francianne": "string",
+        "paola": "string",
+        "contactLabel": "string",
+        "contactPhone": "string",
+        "contactEmail": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/ir-library",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "seeAll": "string"
+      }
+    },
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "seeAll": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/laws-codes-policies",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "accordion_data": "array"
+      }
+    },
+    "template": "articles/laws-codes-policies.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "accordion_data": "array"
+      }
+    }
+  },
+  {
+    "file": "articles/mailer",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/market-information",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "dynamic_content": "string"
+      }
+    },
+    "template": "articles/market-information.html",
+    "pt-BR": {
+      "terms": {
+        "dynamic_content": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/our-business",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "valuation_title": "string",
+        "valuation_text": "string",
+        "intelligence_section": "string",
+        "intelligence_title": "string",
+        "intelligence_subtitle": "string",
+        "intelligence_list": "string",
+        "analysis_section": "string",
+        "analysis_text": "string",
+        "analysis_list": "string",
+        "educational_section": "string",
+        "educational_title": "string",
+        "educational_text": "string",
+        "educational_list": "string"
+      }
+    },
+    "template": "articles/our-business.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "valuation_title": "string",
+        "valuation_text": "string",
+        "intelligence_section": "string",
+        "intelligence_title": "string",
+        "intelligence_subtitle": "string",
+        "intelligence_list": "string",
+        "analysis_section": "string",
+        "analysis_text": "string",
+        "analysis_list": "string",
+        "educational_section": "string",
+        "educational_title": "string",
+        "educational_text": "string",
+        "educational_list": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/ownership-breakdown",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "content_title": "string",
+        "table_label1": "string",
+        "table_label2": "string"
+      }
+    },
+    "template": "articles/ownership-breakdown.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "content_title": "string",
+        "table_label1": "string",
+        "table_label2": "string"
+      }
+    }
+  },
+  {
+    "file": "articles/results-center",
+    "isSubRouter": true,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "quarter": "string",
+        "notAvailable": "string",
+        "labels": {
+          "name": "string",
+          "fields": {
+            "net_revenue": "string",
+            "gross_profit": "string",
+            "net_income": "string",
+            "net_income_margin": "string",
+            "ebitda": "string",
+            "ebitda_margin": "string"
+          }
+        },
+        "files": {
+          "name": "string",
+          "fields": {
+            "result_release": "string",
+            "itr": "string",
+            "presentation": "string",
+            "transcription": "string",
+            "audio": "string"
+          }
+        }
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "string",
+        "quarter": "string",
+        "notAvailable": "string",
+        "labels": {
+          "name": "string",
+          "fields": {
+            "net_revenue": "string",
+            "gross_profit": "string",
+            "net_income": "string",
+            "net_income_margin": "string",
+            "ebitda": "string",
+            "ebitda_margin": "string"
+          }
+        },
+        "files": {
+          "name": "string",
+          "fields": {
+            "result_release": "string",
+            "itr": "string",
+            "presentation": "string",
+            "transcription": "string",
+            "audio": "string"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "articles/who-we-are",
+    "isSubRouter": true,
+    "en-US": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "textarea",
+        "triad_image": "string",
+        "testimonial": "textarea",
+        "objective_image": "string",
+        "objective": "textarea"
+      },
+      "head": {
+        "title": "string",
+        "description": "string"
+      }
+    },
+    "template": "articles/who-we-are.html",
+    "pt-BR": {
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "subtitle": "textarea",
+        "triad_image": "string",
+        "testimonial": "textarea",
+        "objective_image": "string",
+        "objective": "textarea"
+      },
+      "head": {
+        "title": "string",
+        "description": "string"
+      }
+    }
+  },
+  {
+    "file": "head",
+    "isSubRouter": false,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      }
+    },
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      }
+    }
+  },
+  {
+    "file": "home",
+    "isSubRouter": false,
+    "en-US": {
+      "terms": {
+        "teaser": {
+          "text": "string",
+          "link": "string",
+          "route": "string"
+        },
+        "dashboard": {
+          "last_results": {
+            "title": "string",
+            "quarter": "string",
+            "link_all": "string",
+            "links": "array"
+          },
+          "next_events": {
+            "title": "string",
+            "link_all": "string",
+            "links": "array"
+          },
+          "last_updates": {
+            "title": "string",
+            "link_all": "string",
+            "links": "array"
+          }
+        },
+        "democracy": {
+          "title": "string",
+          "text": "string"
+        },
+        "squares": {
+          "users": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "collab": {
+            "number": "number",
+            "text": "string"
+          },
+          "messages": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "notifications": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "courses": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "date_reference": "string"
+        },
+        "dna": {
+          "title": "string",
+          "text": "string",
+          "route": "string",
+          "link": "string"
+        },
+        "image_links": {
+          "about": {
+            "title": "string",
+            "text": "textarea",
+            "route": "string"
+          },
+          "history": {
+            "title": "string",
+            "text": "textarea",
+            "route": "string"
+          },
+          "admin": {
+            "title": "string",
+            "text": "textarea",
+            "route": "string"
+          }
+        },
+        "formMailing": {
+          "title": "string",
+          "subtitle": "string",
+          "link_1": "string",
+          "link_2": "string",
+          "formLabelName": "string",
+          "formLabelCompany": "string",
+          "formLabelEmail": "string",
+          "formLabelProfile": "string",
+          "formLabelInterestGroups": "string",
+          "formLabelCheckbox": "string",
+          "formLabelCheckboxLink": "string",
+          "formLabelButton": "string",
+          "formErrorMessage": "string",
+          "submittedTitle": "string",
+          "submittedMessage": "string",
+          "profile_list": "array"
+        },
+        "cookieAlert": {
+          "text": "string",
+          "link": "string",
+          "buttonAccept": "string",
+          "buttonDecline": "string"
+        }
+      }
+    },
+    "pt-BR": {
+      "terms": {
+        "teaser": {
+          "text": "string",
+          "link": "string",
+          "route": "string"
+        },
+        "dashboard": {
+          "last_results": {
+            "title": "string",
+            "quarter": "string",
+            "link_all": "string"
+          },
+          "next_events": {
+            "title": "string",
+            "link_all": "string"
+          },
+          "last_updates": {
+            "title": "string",
+            "link_all": "string"
+          }
+        },
+        "democracy": {
+          "title": "string",
+          "text": "string"
+        },
+        "squares": {
+          "users": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "collab": {
+            "number": "number",
+            "text": "string"
+          },
+          "messages": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "notifications": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "courses": {
+            "number": "number",
+            "unit": "string",
+            "text": "string"
+          },
+          "date_reference": "string"
+        },
+        "dna": {
+          "title": "string",
+          "text": "string",
+          "route": "string",
+          "link": "string"
+        },
+        "image_links": {
+          "about": {
+            "title": "string",
+            "text": "textarea",
+            "route": "string"
+          },
+          "history": {
+            "title": "string",
+            "text": "textarea",
+            "route": "string"
+          },
+          "admin": {
+            "title": "string",
+            "text": "textarea",
+            "route": "string"
+          }
+        },
+        "formMailing": {
+          "title": "string",
+          "subtitle": "string",
+          "link_1": "string",
+          "link_2": "string",
+          "formLabelName": "string",
+          "formLabelCompany": "string",
+          "formLabelEmail": "string",
+          "formLabelProfile": "string",
+          "formLabelInterestGroups": "string",
+          "formLabelCheckbox": "string",
+          "formLabelCheckboxLink": "string",
+          "formLabelButton": "string",
+          "formErrorMessage": "string",
+          "submittedTitle": "string",
+          "submittedMessage": "string",
+          "profile_list": "array"
+        },
+        "cookieAlert": {
+          "text": "string",
+          "link": "string",
+          "buttonAccept": "string",
+          "buttonDecline": "string"
+        }
+      }
+    }
+  },
+  {
+    "file": "not-found",
+    "isSubRouter": false,
+    "en-US": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "content": "string"
+      }
+    },
+    "template": "not-found.html",
+    "pt-BR": {
+      "head": {
+        "title": "string",
+        "description": "string"
+      },
+      "terms": {
+        "section": "string",
+        "title": "string",
+        "content": "string"
+      }
+    }
+  },
+  {
+    "file": "menu",
+    "isSubRouter": false,
+    "shared": {
+      "home": {
+        "ident": "number",
+        "route": "string",
+        "terms": {
+          "en-US": "string",
+          "pt-BR": "string"
+        }
+      },
+      "institutional": {
+        "route": "string",
+        "terms": {
+          "en-US": {
+            "link": "string",
+            "rights": "string",
+            "privacy": "string"
+          },
+          "pt-BR": {
+            "link": "string",
+            "rights": "string",
+            "privacy": "string"
+          }
+        }
+      },
+      "pages": "array"
+    }
+  }
+]
